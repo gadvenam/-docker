@@ -156,6 +156,6 @@ How to push the Image to Dockerhub
 
 docker login 
 docker image ls
-docker image tag mywebserver1  anishrana2001/ar2001:mywebserver1
+docker image tag mywebserver1  gadvenamdev2001/ar2001:mywebserver1
 docker image ls
-docker push anishrana2001/ar2001:mywebserver1
+docker push gadvenamdev2001/ar2001:mywebserver1
